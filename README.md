@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
 <div align="center" style="margin-bottom=100px">
   <a>
-    <img src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="Simon" </img>
+    <img src="https://raw.githubusercontent.com/fadhilabdulla/fadhilabdulla/main/FadhilHeader.png" alt="Simon" </img>
   </a>    
 </div>  
 <h2 align="center">I'm Simon </h2>  
@@ -18,7 +18,7 @@
  
 <br />  
  
-<img align="right" alt="img" src="https://raw.githubusercontent.com/fadhilabdulla/fadhilabdulla/main/FadhilHeader.png" width="400" height="250"/> 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/developer.gif" width="400" height="250"/> 
  
 ### 💻 Tools and Tech stack () => {
  
