@@ -18,7 +18,7 @@
  
 <br />  
  
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/developer.gif" width="400" height="250"/> 
+<img align="right" alt="img" src="https://raw.githubusercontent.com/fadhilabdulla/fadhilabdulla/main/FadhilHeader.png" width="400" height="250"/> 
  
 ### 💻 Tools and Tech stack () => {
  
