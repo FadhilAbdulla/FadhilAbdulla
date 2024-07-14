@@ -5,57 +5,38 @@
     <img src="https://raw.githubusercontent.com/fadhilabdulla/fadhilabdulla/main/FadhilHeader.png" alt="Simon" </img>
   </a>    
 </div>  
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1> 
+<h1 align="center">Software Engineer</h1> 
 <br/>    
   
-###Full-Stack Developer and CyberSecurity Graduate. 💻  
-* 👨‍💻  Currently mostly into web & mobile Application Development.
-* 🎓  CyberSecurity Graduate <a href="https://acpass.zu.ac.ae/en/credentials/shared/94efe23c2fbe07e133553c47af0e54ca"><i>Graduate Diploma</i></a>
-* 🏫  Working as a FullStack Developer   
-* 🌍  Based in UAE  🇦🇪
-* 🖥️  Check out my portfolio at [<i>simon-zerisenay</i>](https://simon-zerisenay.github.io/PersonalPortfolio/) 
-* 🧑‍🏫  "The best way to predict the future is to create it." - [Peter Drucker]  
+* 💻 Passionate in Software
+* 🎓 Graduate in Electronics (Engineering)
+* 🌍 Based in UAE 
+* 🖥️ Check out my portfolio at [<i>FadhilAbdulla</i>](https://fadhilabdulla.github.io/) 
+* 🏫 Working as a FullStack Developer   
+* 🧑‍🏫 Connect with me in Linkedin [<i>FadhilAbdulla</i>](https://www.linkedin.com/in/fadhil-abdulla) 
+* 👨‍💻 Currently mostly into web & mobile Application Development and Moving in to Ai domain
  
 <br />  
  
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/developer.gif" width="400" height="250"/> 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/fadhilabdulla/fadhilabdulla/main/developer.gif" width="400" height="250"/> 
  
-### 💻 Tools and Tech stack () => {
- 
-<div style="display: flex;gap:'10px'" align="left">
-<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" width="48" height="48" alt="HTML5" /></a>
-  <a href="https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" /></a> 
-<a href="https://www.r-project.org/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" width="48" height="48" alt="R" /></a>    
-<!-- <a href="https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" /></a>  -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="PlanetScale" /></a>
-  <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML5" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS3" /></a>
-  <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
-  <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" height="48" alt="redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" /></a>
- <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/materialui/materialui-original.svg" width="48" height="48" alt="MaterialUI" /></a>
-  <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="Typescript" /></a>
-  <a href="https://www.typescriptlang.org"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="Typescript" /></a>
-  <a href="https://www.nextjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="48" height="48" alt="NextJs" /></a>
-  <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="PlanetScale" /></a>
-<a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="48" height="48" alt="Visual Studio Code" /></a>
-  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="PlanetScale" /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
- 
-</div>
+## 💻 Tech stack 
 
-### }
+> * Web Frontend : ReactJs | NextJs
+> * Mobile Frontend : Flutter (dart)
+> * SQL DataBase : MySQL | Postgresql
+> * NoSQl DataBase : MongoDb | DynamoDb
+> * Backend : NestJs | AWS SAM | ExpressJs | FireBase | Laravel
+ 
 
 <br />
 <br />
-<br />
-                                                          <h3 align="center"> 📊 My GitHub Stats </h3>
+                                                          <h3 align="center"> 📊 GitHub Stats </h3>
                                                           <div align=center>
- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=simon-zerisenay&label=Profile%20Views&color=3&icon=0&pretty=false" />
-</a> 
+
+<div>
+  <img src="https://visitcount.itsvg.in/api?id=FadhilAbdulla&label=Page%20Views&color=12&icon=5&pretty=true" />
+</div>
 </div> 
 <div align="center">
 <a href="http://www.github.com/simon-zerisenay"><img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=simon-zerisenay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Simon's GitHub stats" /></a>
