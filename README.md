@@ -39,8 +39,8 @@
 </div>
 </div> 
 <div align="center">
-<a href="http://www.github.com/simon-zerisenay"><img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=simon-zerisenay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Simon's GitHub stats" /></a>
-<a href="http://www.github.com/simon-zerisenay"><img height="200em" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=simon-zerisenay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact&show_icons=true&langs_count=10" alt="Simon's GitHub stats" /></a>
+<a href="http://www.github.com/fadhilabdulla"><img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=fadhilabdulla&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Simon's GitHub stats" /></a>
+<a href="http://www.github.com/fadhilabdulla"><img height="200em" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadhilabdulla&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact&show_icons=true&langs_count=10" alt="Simon's GitHub stats" /></a>
 </div>
 
 
@@ -68,18 +68,18 @@
                                                 
 <div align="center" >
  <a href="https://github.com/Kmalae" target="_blank">
-    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/kmalae.png"   padding="20" height="170" width="200" alt="twitter logo"  />
+    <img src="https://github.com/fadhilabdulla/fadhilabdulla/blob/main/kmalae.png"   padding="20" height="170" width="200" alt="twitter logo"  />
   </a>
-  <a href="https://simon-zerisenay.github.io/Simon_Online_Library/" target="_blank">
-    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/simononlinelibrary.png"  padding="20" height="170" width="200" alt="twitter logo"  />
-  <a href="https://github.com/simon-zerisenay/QR-Reader" target="_blank">
-    <img src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/QRREADER.png"  padding="20" height="170" width="200" alt="twitter logo"  />
+  <a href="https://fadhilabdulla.github.io/Simon_Online_Library/" target="_blank">
+    <img src="https://github.com/fadhilabdulla/fadhilabdulla/blob/main/simononlinelibrary.png"  padding="20" height="170" width="200" alt="twitter logo"  />
+  <a href="https://github.com/fadhilabdulla/QR-Reader" target="_blank">
+    <img src="https://github.com/fadhilabdulla/fadhilabdulla/blob/main/QRREADER.png"  padding="20" height="170" width="200" alt="twitter logo"  />
   </a>
-   <a href="https://github.com/simon-zerisenay/Student-Guide-and-Qoura" target="_blank">
-    <img src="https://github.com/simon-zerisenay/Student-Guide-and-Qoura/blob/master/StudentGuidenQoura.png"  padding="20" height="170" width="200" alt="twitter logo"  />
+   <a href="https://github.com/fadhilabdulla/Student-Guide-and-Qoura" target="_blank">
+    <img src="https://github.com/fadhilabdulla/Student-Guide-and-Qoura/blob/master/StudentGuidenQoura.png"  padding="20" height="170" width="200" alt="twitter logo"  />
   </a>
-  <a href="https://github.com/simon-zerisenay/FireGuardVision" target="_blank">
-    <img src="https://github.com/simon-zerisenay/PersonalPortfolio/blob/main/assets/img/fireguard.PNG"  padding="20" height="170" width="200" alt="twitter logo"  />
+  <a href="https://github.com/fadhilabdulla/FireGuardVision" target="_blank">
+    <img src="https://github.com/fadhilabdulla/PersonalPortfolio/blob/main/assets/img/fireguard.PNG"  padding="20" height="170" width="200" alt="twitter logo"  />
   </a>
    
    
@@ -89,16 +89,16 @@
 <br/>
 <div align="center">
   
-<a href="https://github.com/simon-zerisenay/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
-<a href="https://github.com/simon-zerisenay/42_get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
-<a href="https://github.com/simon-zerisenay/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
-<a href="https://github.com/simon-zerisenay/42_BorntobeRoot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2berootm.png)</a>
-<a href="https://github.com/simon-zerisenay/42_So_Long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longm.png)</a>
-<a href="https://github.com/simon-zerisenay/42Minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkm.png)</a>
-<a href="https://github.com/simon-zerisenay/42_push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swapm.png)</a>
-<a href="https://github.com/simon-zerisenay/42_Philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png)</a>
-<a href="https://github.com/simon-zerisenay/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
-<a href="https://github.com/simon-zerisenay/SuperCube3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
+<a href="https://github.com/fadhilabdulla/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libftm.png)</a>
+<a href="https://github.com/fadhilabdulla/42_get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png)</a>
+<a href="https://github.com/fadhilabdulla/42-ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfm.png)</a>
+<a href="https://github.com/fadhilabdulla/42_BorntobeRoot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2berootm.png)</a>
+<a href="https://github.com/fadhilabdulla/42_So_Long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longm.png)</a>
+<a href="https://github.com/fadhilabdulla/42Minitalk">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkm.png)</a>
+<a href="https://github.com/fadhilabdulla/42_push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swapm.png)</a>
+<a href="https://github.com/fadhilabdulla/42_Philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersm.png)</a>
+<a href="https://github.com/fadhilabdulla/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishellm.png)</a>
+<a href="https://github.com/fadhilabdulla/SuperCube3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3dm.png)</a>
  </div>
  
   <br/>
@@ -108,6 +108,6 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=simon-zerisenay&label=Profile%20Views&color=3&icon=0&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=fadhilabdulla&label=Profile%20Views&color=3&icon=0&pretty=false" />
 </a>
   </div>
