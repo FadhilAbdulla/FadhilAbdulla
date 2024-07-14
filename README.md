@@ -1,11 +1,11 @@
                   
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> 
+
 <div align="center" style="margin-bottom=100px">
   <a>
     <img src="https://raw.githubusercontent.com/fadhilabdulla/fadhilabdulla/main/FadhilHeader.png" alt="Simon" </img>
   </a>    
 </div>  
-<h2 align="center">I'm Simon </h2>  
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you.</h1> 
 <br/>    
   
 ###Full-Stack Developer and CyberSecurity Graduate. 💻  
